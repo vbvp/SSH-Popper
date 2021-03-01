@@ -9,6 +9,7 @@ Exploit SSH services with exploits/bruteforce attacks.
 - SSH User Enumeration exploit
 - Finish the bruteforcing
 - Add more exploits (Dos ???? if theres any ofc)
+- Shell system (Interact with the box itself (ez))
 
 
 
